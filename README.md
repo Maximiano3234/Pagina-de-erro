@@ -28,7 +28,7 @@
 
 ----------------------------------------------------------------------------------
 ## O projeto é uma estrutura de uma página de de erro 404 ...
-## Responciva
+## Responciva e com animação
 ## deixe sua contribuição nos códigos...
 ## HTML
 ## CSS
